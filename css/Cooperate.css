@@ -1,0 +1,14 @@
+/* CSS Document */
+.ProTitle{
+	font-weight: bold;
+}
+#send_shenqing{
+	height: 25px;
+	width: 200px;
+	float:left;
+	display:block;
+	visibility:visible;
+	background-color: #FFFFCC;
+	border: 1px solid #FFCC00;
+	visibility:hidden;
+}

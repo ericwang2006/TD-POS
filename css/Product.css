@@ -1,0 +1,33 @@
+/* CSS Document */
+#MenuBlankProduct{
+	border-left-width: 3px;
+	border-left-style: solid;
+	border-left-color: #808080;
+	display: block;
+	float: left;
+	height: 250px;
+	width: 199px;
+}
+.ProductPic {
+	display: block;
+	float: left;
+	width: 200px;
+	margin-right: 10px;
+}
+
+.ProductName {
+	line-height: 25px;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.ProductInfo {
+	line-height: 20px;
+	margin: 5px;
+	display: block;
+}
+.ProList {
+	display: block;
+	width: 100%;
+	margin-bottom: 20px;
+}

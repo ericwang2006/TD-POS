@@ -1,0 +1,16 @@
+#MenuBlankSolve{
+	border-left-width: 3px;
+	border-left-style: solid;
+	border-left-color: #808080;
+	display: block;
+	float: left;
+	height: 150px;
+	width: 199px;
+}
+
+#Main #RightBody #RightBodyContent #RightBodyMiddleContent #RightBodyMiddleContentContent li dl li {
+	list-style-type: square;
+	list-style-position: outside;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}

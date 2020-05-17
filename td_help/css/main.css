@@ -1,0 +1,35 @@
+body, td, th {
+    font-family: "ËÎÌו";
+    font-size: 12px;
+}
+
+body {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    height: 100%;
+}
+
+form {
+    margin: 0px;
+}
+
+a{
+	width:auto;
+	height:20px;
+	color: #0042FF;
+	text-decoration: none;
+	line-height: 20px;
+}
+a:hover{
+	color:#333333;
+}
+
+table.main_menu td {
+    font-family: "ËÎÌו";
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+    color: #0042FF;
+}
